@@ -1,12 +1,16 @@
 # Object Proxy
+
 ## Structural pattern design
 
-<p>The proposition of this application is to understand the pattern design ObjectProxy.
-This program show in console a simulation of the form of use by user a service on Youtube.</p>
+<p>The proposition of this application is to understand the pattern design ObjectProxy.</p>
 
 <p>At the end of the execution of the program and analyzing the log we can see the advantage of use this pattern.</p>
 
-<p>For example:</p>
+## Architecture
+
+![Architecture diagram.](https://raw.githubusercontent.com/DeyvidGar/assets/master/Proxy.png)
+
+## Description
 
 - If we use the service layer with the object remote directly, we can see that the application have a considerable duration.
 

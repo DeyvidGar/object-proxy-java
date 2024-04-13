@@ -5,6 +5,11 @@ bin/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
+.idea/
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/encodings.xml
 .idea/modules.xml
 .idea/codeStyles/
 .idea/jarRepositories.xml
