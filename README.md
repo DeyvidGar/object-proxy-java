@@ -8,7 +8,7 @@
 
 ## Architecture
 
-![Architecture diagram.](https://raw.githubusercontent.com/DeyvidGar/assets/master/Proxy.png)
+![Architecture diagram.](https://raw.githubusercontent.com/DeyvidGar/assets/master/Object-proxy.png)
 
 ## Description
 
