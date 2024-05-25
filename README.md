@@ -3,6 +3,10 @@
 
 HOAL ESTO ES UN CAMBIO
 
+
+
+OTRO CAMBIO
+
 <p>The proposition of this application is to understand the pattern design ObjectProxy.
 This program show in console a simulation of the form of use by user a service on Youtube.</p>
 
